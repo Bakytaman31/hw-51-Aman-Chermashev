@@ -1,0 +1,12 @@
+.sidebar-name{
+ background-color: red;
+}
+.sidebar-div{
+    border: 2px solid #ccc;
+    height: 50%;
+    color: #fff;
+    background: #000;
+}
+.sidebar-a{
+    color: #fff;
+}
